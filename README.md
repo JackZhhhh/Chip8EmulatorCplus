@@ -17,10 +17,10 @@ This is a simple CHIP-8 emulator written in C++. It’s designed to be lightweig
 - C++17-compatible compiler (e.g. `g++`, `clang++`)
 - SDL3 (for graphics and input)
 
-##Want to Learn How It Works?
+## Want to Learn How It Works?
 I wrote a complete beginner-friendly tutorial explaining how to build this emulator step by step. It’s available for $0.99 on Amazon:
 
-📘 [CHIP-8 Emulator Guide on Amazon] (https://www.amazon.com/dp/B0FKD1BB8N)
+📘 [CHIP-8 Emulator Guide on Amazon](https://www.amazon.com/dp/B0FKD1BB8N)
 
 The guide covers:
 
@@ -32,6 +32,6 @@ The guide covers:
 
 Perfect if you’re new to systems programming or emulation!
 
-###License
+### License
 MIT License — feel free to use, modify, or contribute.
 
